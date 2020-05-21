@@ -1,0 +1,25 @@
+#divA {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+  width: 500px;
+  height: 500px;
+  padding: 3px;
+  border-radius: 50%;
+  background-color: #ff0000;
+}
+#divB {
+  position:absolute;
+  top: 530px;
+  left: 30px;
+  background-color: #00ff00;
+  width: 250px;
+  height: 250px;
+  border-radius: 12.5%
+}
+#headingA {
+  position: absolute;
+  top: 800px;
+  left: 30px;
+  border-color: #000000;
+}
